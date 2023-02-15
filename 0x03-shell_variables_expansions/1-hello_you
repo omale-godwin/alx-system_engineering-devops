@@ -1,2 +1,2 @@
 #!/bin/bash
-alias id = "Hello $(whoami)"
+alias id = 'echo Hellow MyUser)'
