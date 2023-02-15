@@ -1,2 +1,2 @@
 #!/bin/bash
-alais id =`echo "hello "$(whoami)`
+alais id =hello $(whoami
