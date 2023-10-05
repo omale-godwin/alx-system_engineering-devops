@@ -30,8 +30,8 @@ frontend http-in
 
 backend webservers
     balance roundrobin
-    server 246683-web-01 34.234.201.201:80 check
-    server 246683-web-02 52.3.249.208:80 check
+    server 285340-web-01 3.84.168.194:80 check
+    server 285340-web-02 34.202.159.116:80 check
 EOL
 
 # Enable HAProxy service to start on boot
