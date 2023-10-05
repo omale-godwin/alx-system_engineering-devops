@@ -1,0 +1,3 @@
+ /etc/letsencrypt/live/www.smarttraderhub.tech/fullchain.pem
+   Your key file has been saved at:
+   /etc/letsencrypt/live/www.smarttraderhub.tech/privkey.pem
